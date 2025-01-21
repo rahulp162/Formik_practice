@@ -4,11 +4,12 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import MyForm from './components/formik'
 import SecondForm from './components/second'
+import ThirdForm from './components/third'
 
 function App() {
 
   return (
-    <MyForm/>
+    <ThirdForm/>
   )
 }
 
