@@ -12,11 +12,20 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+#submit{
+  margin-top: 15px;
+  background-color: blue;
+}
 .errorBox{
   color: red;
   margin: 10px 0px;
 }
+.form{
+  display: flex;
+  text-align: left;
+  flex-direction: column;
 
+}
 a {
   font-weight: 500;
   color: #646cff;
