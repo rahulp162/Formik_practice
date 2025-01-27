@@ -6,11 +6,14 @@ import MyForm from './components/formik'
 import SecondForm from './components/second'
 import ThirdForm from './components/third'
 import Forth from './components/forth'
+import FormikContainer from './components/container-control/FormikContainer'
+import Login from './components/Login'
+import SignUp from './components/SignUp'
 
 function App() {
 
   return (
-    <Forth/>
+    <SignUp/>
   )
 }
 

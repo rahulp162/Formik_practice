@@ -26,6 +26,11 @@
   flex-direction: column;
 
 }
+.form-control{
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+}
 a {
   font-weight: 500;
   color: #646cff;
